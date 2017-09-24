@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A2_L1_Заметки_Polygalov</string>
+    <string name="notes_drawer">Заметки</string>
+    <string name="action_settings">Настройки</string>
+    <string name="note_title">Название заметки</string>
+    <string name="calendar_drawer">Календарь</string>
+</resources>
